@@ -1,0 +1,10 @@
+{
+  "version": "1.1.0",
+  "download_url": "https://tuo-repository/plugin.zip",
+  "sections": {
+    "changelog": "### 1.1.0\n- Bug fix\n- Nuove funzionalità"
+  },
+  "requires": "5.5",
+  "tested": "6.0",
+  "last_updated": "2023-01-01"
+}
